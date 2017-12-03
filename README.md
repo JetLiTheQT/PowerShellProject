@@ -1,6 +1,6 @@
 # PowerShellProject
 
-Step 1: Download file as a ZIP
+Step 1: Click Clone or Download, then download file as a ZIP
 Step 2: Extract into your downloads folder
 Step 3: Open File Explorer (Win + E)
 Step 4 Right Click on the file gooood.ps1
